@@ -12,7 +12,10 @@ We provide initiation, advice, all the equipment, and a lot of fun! You just hav
 
 ### Where                                  
 Gadbois Center- 5485 chemin de la Côte Saint-Paul, Montréal, QC H4C1X3
+
 Double Gymnasium – basement level
+
+googlemaps : https://goo.gl/maps/zc6nTod42fcHnna28
 
 ### When 
 **Tuesday and Thursday**
