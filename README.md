@@ -15,7 +15,7 @@ Gadbois Center- 5485 chemin de la Côte Saint-Paul, Montréal, QC H4C1X3
 
 Double Gymnasium – basement level
 
-googlemaps : https://goo.gl/maps/zc6nTod42fcHnna28
+[Google Map](https://goo.gl/maps/zc6nTod42fcHnna28) 
 
 ### When 
 **Tuesday and Thursday**
