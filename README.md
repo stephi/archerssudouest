@@ -15,8 +15,6 @@ Gadbois Center  - 5485 chemin de la Côte Saint-Paul, Montréal, QC H4C1X3  -   
 
 Double Gymnasium – basement level
 
-![map image](https://stephi.github.io/archerssudouest/map.PNG)
-
 ### When 
 **Tuesday and Thursday**
 
@@ -44,6 +42,7 @@ From December 17th 2021 to January 3rd 2022 inclusively
 | Family                   | $215     | $150           |$100   |
 
 
+
 **Vaccinal passport is requested.**
 
 Archery practice is open to children aged 8 and more.
@@ -56,9 +55,10 @@ The club offers free equipment, which needs to be disinfected by users after use
 
 The club offers an initiation session.
 
-## Come check us out ! The first evening is FREE for new members, you will get a free initiation course and we provide all the equipment! ##
+## Come check us out ! ##
+### The first evening is FREE for new members, you will get a free initiation course and we provide all the equipment! ###
 
-### Please feel free to contact us for further information at clubarcherssudouest@gmail.com ###
+Please feel free to contact us for further information at clubarcherssudouest@gmail.com 
 
 Looking forward to meeting you!
 
