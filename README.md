@@ -11,13 +11,11 @@ We provide initiation, advice, all the equipment, and a lot of fun! You just hav
 ## General Information
 
 ### Where                                  
-Gadbois Center- 5485 chemin de la Côte Saint-Paul, Montréal, QC H4C1X3
+Gadbois Center  - 5485 chemin de la Côte Saint-Paul, Montréal, QC H4C1X3  -   [Google Map](https://goo.gl/maps/zc6nTod42fcHnna28) 
 
 Double Gymnasium – basement level
 
-![This is an image](https://stephi.github.io/archerssudouest/map.png)
-
-[Google Map](https://goo.gl/maps/zc6nTod42fcHnna28) 
+![map image](https://stephi.github.io/archerssudouest/map.PNG)
 
 ### When 
 **Tuesday and Thursday**
