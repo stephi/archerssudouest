@@ -20,7 +20,7 @@ Double Gymnasium – basement level
 
 * Juniors and family: 7:15pm to 8:15pm
 
-* Adults: 8:30pm to 9:30pm
+* Adults: 8:15pm to 9:30pm
 
 ### Opening date                
 September 7th 2021
@@ -30,8 +30,6 @@ April 28th 2022
 
 ### Christmas break        
 From December 17th 2021 to January 3rd 2022 inclusively 
-
->**_COVID WARNING !!! we are waiting for Public Health Instructions for exact reopening date !!_**
 
 ### Prices 2021-2022
 
