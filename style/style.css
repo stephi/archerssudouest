@@ -1,0 +1,278 @@
+/*  
+Design by Hall @hallbuilt.com
+Copyright &copy; 
+All Rights Reserved.
+Learn HTML5 & CSS3 in your spare time:
+https://www.w3schools.com
+https://css-tricks.com
+https://codepen.io/
+*/
+
+/* GENERAL PAGE STYLING AND HEADER    */
+
+* {
+    margin: 0 auto;
+	padding: 0;
+	border: 0;
+    box-sizing:border-box;
+    }
+
+html {
+	font-family: "liberation-sans", "arial", sans-serif;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    background: #fff;
+    color: 000;
+    }
+
+.header {
+    text-align: center;
+    max-width: 1000px;
+    }
+
+.header-img {
+    max-width: 100%;
+    height: auto;
+    }
+
+.title {
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    }
+
+/* NAVIGATION MENU */
+
+.site-nav {
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+.site-nav > div {
+    text-align: center;
+    font-size: 16px;
+    padding: 5px;
+    }
+
+.site-nav > div a {
+    text-decoration: none;
+    color: #000;
+    }
+
+.site-nav > div a:hover {
+    font-weight: bold;
+    }
+
+/*  MAIN CONTENT STYLING   */
+
+.section {
+    padding: 10px 0px;
+    max-width: 1000px;
+    font-size: 16px;
+    width: 100%;
+	line-height: 1.5em;
+    word-spacing: 1px;
+    }
+
+.section p {
+    max-width: 1000px;
+    width: 100%;
+    }
+
+.about {
+    text-align: justify;
+    }
+
+.section a {
+    color: #000;
+    }
+
+.section a:hover {
+    font-weight:bolder;
+    }
+
+.sec_center{
+    text-align: center;
+    padding: 15px;
+    margin: 0px auto;
+    max-width: 1000px;
+    }
+
+.full {
+    background-color: #ec4032;
+    padding: 40px 20px;
+    margin: 10px auto;
+    max-width: 1000px;
+    width: 100%;
+    padding: 10px;
+    min-height: 100%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 16px;
+    border-color: #000;
+    border-width: medium;
+    border-style: solid;
+    }
+
+.begins {
+    padding: 40px 20px;
+    margin: 10px auto;
+    max-width: 1000px;
+    width: 100%;
+    padding: 10px;
+    min-height: 100%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 16px;
+    border-color: #000;
+    border-width: medium;
+    border-style: solid;
+    }
+
+/* MEMBERSHIP TABLE STYLING */
+
+.list {
+    width: 100%;
+    margin: left;
+    padding-left: 15px;
+    max-width: 1000px;
+    }
+
+.cost-container {
+    display: flex;
+    margin: 0px auto;
+    flex-direction: row;
+    text-align: center;
+    border-top: solid;
+    border-color: 000;
+    border-width: 2px;
+    padding: 0px 10px;
+    max-width: 1000px;
+    }
+
+.youth-box {
+    padding: 10px;
+    flex: 33%;
+    }
+
+.adult-box {
+    padding: 10px;
+    flex: 33%;
+    }
+
+.family-box {
+    padding: 10px;
+    flex: 33%;
+    }
+
+/* FOOTER STYLING*/
+
+.footer {
+    text-align: center;
+    color: 000;
+    margin: 0 auto;
+    max-width: 1000px;
+    width: 100%;
+    }
+
+.footer img {
+    height: 110px;
+    width: 100%;
+    object-fit: cover;
+    }
+
+
+
+
+/* Responsive layout - shrinks for mobile devices and makes a one column-layout instead of multi-column layout  */
+
+@media (max-width: 800px) {
+    
+    .title {
+        font-weight: bolder;
+        font-size: 20px;
+        text-align: center;
+        }
+
+    .site-nav > div {
+        text-align: center;
+        font-size: 14px;
+        padding: 5px;
+        }
+
+    .section {
+        padding: 10px 0px;
+        max-width: 1000px;
+        font-size: 14px;
+        width: 100%;
+        line-height: 1.5em;
+        word-spacing: 1px;
+        }
+
+    .full {
+        background-color: #ec4032;
+        padding: 40px 20px;
+        margin: 10px auto;
+        max-width: 1000px;
+        width: 100%;
+        padding: 10px;
+        min-height: 100%;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 14px;
+        border-color: #000;
+        border-width: medium;
+        border-style: solid;
+        }
+
+    .begins {
+        padding: 40px 20px;
+        margin: 10px auto;
+        max-width: 1000px;
+        width: 100%;
+        padding: 10px;
+        min-height: 100%;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 14px;
+        border-color: #000;
+        border-width: medium;
+        border-style: solid;
+        }
+
+    .cost-container {
+        flex-direction: column;
+        text-align: center;
+        border-top: solid;
+        border-color: 000;
+        border-width: 2px;
+        padding: 20px;
+        }
+
+    .youth-box {
+        border-bottom: solid;
+        border-color: 000;
+        border-width: 2px;
+        padding: 20px;
+         } 
+
+    .adult-box {
+        border-bottom: solid;
+        border-color: 000;
+        border-width: 2px;
+        padding: 20px;
+        }
+
+    .family-box {
+        border-bottom: solid;
+        border-color: 000;
+        border-width: 2px;
+        padding: 20px;
+        } 
+
+     .section {
+        padding: 10px 20px; 
+        }
+}
+
+/*** END ***/
